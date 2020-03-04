@@ -1,0 +1,1 @@
+This assignment was provided in a limited state by the professor. The objective was to take it and make it utilize multiple threads. I did this by marking points where the carver noticed the image header then sent it off to a new thread while continuing to search for more image headers.
